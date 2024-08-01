@@ -3,7 +3,7 @@
 I’m [Your Name], a passionate developer from [Your Location].
 
 <details>
-  <summary>About Me</summary>
+  <summary>A<h2></h2>bout Me</summary>h2></summary>
 
   My journey into the world of coding started when I was 17, not entirely sure what I wanted to do with my life. Growing up as a gamer, I always had a keen interest in computers. Determined to find my place, I went around posting my CV through business letterboxes in search of a job.
 
