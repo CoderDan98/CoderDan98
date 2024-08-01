@@ -36,7 +36,7 @@ Now, with a strong foundation and diverse experience, I’m excited to continue 
 
 ## Projects
 
-- [Portfolio](www.danielsarney.com)
+- [Portfolio](https://www.danielsarney.com)
 - [Joke Application](https://github.com/CoderDan98/JokeApp)
 - [Blog Application](https://github.com/CoderDan98/BlogApp)
 - [Book Notes Application](https://github.com/CoderDan98/BookNotesApp)
