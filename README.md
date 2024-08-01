@@ -37,10 +37,16 @@ Now, with a strong foundation and diverse experience, I’m excited to continue 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)
 
 ## Projects
-- <a href="https://www.danielsarney.com" target="_blank">Portfolio</a>
-- <a href="https://github.com/CoderDan98/JokeApp" target="_blank">Joke Application</a>
-- <a href="https://github.com/CoderDan98/BlogApp" target="_blank">Blog Application</a>
-- <a href="https://github.com/CoderDan98/BookNotesApp" target="_blank">Book Notes Application</a>
+<table>
+  <tr>
+    <td><a href="https://www.danielsarney.com" target="_blank">Portfolio</a></td>
+    <td><a href="https://github.com/CoderDan98/JokeApp" target="_blank">Joke Application</a></td>
+    <td><a href="https://github.com/CoderDan98/BlogApp" target="_blank">Blog Application</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/CoderDan98/BookNotesApp" target="_blank">Book Notes Application</a></td>
+  </tr>
+</table>
 
 ## GitHub Stats
 ![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CoderDan98&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
