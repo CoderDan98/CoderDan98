@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I’m [Your Name], a passionate developer from [Your Location].
+I’m Daniel, a passionate fullstack engieer from Luton.
 
 ## About Me
 
@@ -11,3 +11,5 @@ I landed my first job at a recruitment agency, where I had the opportunity to wo
 From the moment I wrote my first "Hello, World!" program using HTML, JavaScript, and CSS, I was hooked. This newfound passion led me to pursue a degree in Computer Science, and I’ve been climbing the ranks ever since.
 
 Now, with a strong foundation and diverse experience, I’m excited to continue growing, learning, and contributing to the tech community.
+
+
