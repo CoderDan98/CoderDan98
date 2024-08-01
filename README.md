@@ -36,9 +36,10 @@ Now, with a strong foundation and diverse experience, I’m excited to continue 
 
 ## Projects
 
-- [Project 1](https://github.com/CoderDan98/JokeApp)
-- [Project 2](https://github.com/CoderDan98/BlogApp)
-- [Project 3](https://github.com/CoderDan98/BookNotesApp)
+- [Portfolio](www.danielsarney.com)
+- [Joke Application](https://github.com/CoderDan98/JokeApp)
+- [Blog Application](https://github.com/CoderDan98/BlogApp)
+- [Book Notes Application](https://github.com/CoderDan98/BookNotesApp)
 
 ## GitHub Stats
 
