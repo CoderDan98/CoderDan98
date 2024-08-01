@@ -13,8 +13,8 @@ I am a seasoned Fullstack Engineer with over 9 years of experience and a degree 
 - [Another Project](Link): Short description of this project.
 
 ## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=CoderDan98&show_icons=true&theme=radical)
 
 ## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderDan98&layout=compact&theme=radical)
 
