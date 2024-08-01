@@ -35,11 +35,10 @@ Now, with a strong foundation and diverse experience, I’m excited to continue 
 ![GIMP](https://img.shields.io/badge/-GIMP-5C5543?logo=gimp&logoColor=white&style=flat)
 
 ## Projects
-
-- [Portfolio](https://www.danielsarney.com)
-- [Joke Application](https://github.com/CoderDan98/JokeApp)
-- [Blog Application](https://github.com/CoderDan98/BlogApp)
-- [Book Notes Application](https://github.com/CoderDan98/BookNotesApp)
+- <a href="https://www.danielsarney.com" target="_blank">Portfolio</a>
+- <a href="https://github.com/your-username/JokeApp" target="_blank">Joke Application</a>
+- <a href="https://github.com/your-username/BlogApp" target="_blank">Blog Application</a>
+- <a href="https://github.com/your-username/BookNotesApp" target="_blank">Book Notes Application</a>
 
 ## GitHub Stats
 
