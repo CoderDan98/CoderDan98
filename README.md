@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I’m [Your Name], a passionate developer from [Your Location].
+I’m Daniel, a passionate fullstack engineer from Luton.
 
 ## About Me
 
@@ -16,7 +16,6 @@ Now, with a strong foundation and diverse experience, I’m excited to continue 
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
 
@@ -24,10 +23,24 @@ Now, with a strong foundation and diverse experience, I’m excited to continue 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat)
+![EJS](https://img.shields.io/badge/-EJS-8BC0D0?logo=javascript&logoColor=white&style=flat)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
 
 ### Tools and Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
+![draw.io](https://img.shields.io/badge/-draw.io-FF9900?logo=diagrams.net&logoColor=white&style=flat)
+![Trello](https://img.shields.io/badge/-Trello-0079BF?logo=trello&logoColor=white&style=flat)
+![GIMP](https://img.shields.io/badge/-GIMP-5C5543?logo=gimp&logoColor=white&style=flat)
+
+## Projects
+
+- [Project 1](https://github.com/CoderDan98/JokeApp)
+- [Project 2](https://github.com/CoderDan98/BlogApp)
+- [Project 3](https://github.com/CoderDan98/BookNotesApp)
+
+## GitHub Stats
+
+![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?CoderDan98&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?CoderDan98&layout=compact&theme=dark)
