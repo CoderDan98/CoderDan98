@@ -16,6 +16,7 @@ Now, with a strong foundation and diverse experience, I’m excited to continue 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![SQL](https://img.shields.io/badge/-SQL-003B57?logo=mysql&logoColor=white&style=flat)
 
 ### Frameworks and Libraries
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
@@ -31,6 +32,9 @@ Now, with a strong foundation and diverse experience, I’m excited to continue 
 ![draw.io](https://img.shields.io/badge/-draw.io-FF9900?logo=diagrams.net&logoColor=white&style=flat)
 ![Trello](https://img.shields.io/badge/-Trello-0079BF?logo=trello&logoColor=white&style=flat)
 ![GIMP](https://img.shields.io/badge/-GIMP-5C5543?logo=gimp&logoColor=white&style=flat)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)
 
 ## Projects
 - <a href="https://www.danielsarney.com" target="_blank">Portfolio</a>
