@@ -39,10 +39,10 @@ Now, with a strong foundation and diverse experience, I’m excited to continue 
 ## Projects
 <table>
   <tr>
-    <td><a href="https://www.danielsarney.com" target="_blank">Portfolio</a></td>
-    <td><a href="https://github.com/CoderDan98/JokeApp" target="_blank">Joke Application</a></td>
-    <td><a href="https://github.com/CoderDan98/BlogApp" target="_blank">Blog Application</a></td>
-    <td><a href="https://github.com/CoderDan98/BookNotesApp" target="_blank">Book Notes Application</a></td>
+    <td>[Portfolio](https://www.danielsarney.com)</td>
+    <td>[Joke Application](https://github.com/CoderDan98/JokeApp)</td>
+    <td>[Blog Application](https://github.com/CoderDan98/BlogApp)</td>
+    <td>[Book Notes Application](https://github.com/CoderDan98/BookNotesApp)</td>
   </tr>
 </table>
 
